@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "PokerSettle - GBP Settlement Calculator",
-  description: "Manage your poker game settlements in British Pounds (GBP)",
+  description: "Pay Jean back quicker with this poker settlement calculator",
 };
 
 export default function RootLayout({
