@@ -294,7 +294,7 @@ export default function Home() {
           <Card>
             <CardHeader>
               <CardTitle>Add New Player</CardTitle>
-              <CardDescription>Enter the player's name to add them to the game</CardDescription>
+              <CardDescription>Enter the player&apos;s name to add them to the game</CardDescription>
             </CardHeader>
             <CardContent>
               <div className="flex gap-4">
