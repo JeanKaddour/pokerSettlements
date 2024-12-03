@@ -1,5 +1,8 @@
 # PokerSettle
 
+![Logo](public/logo.png)
+
+
 PokerSettle is a Next.js web application designed to simplify post-game settlements in poker games. It allows players to input their buy-ins and cash-outs, calculates net winnings or losses, and determines the optimal way for players to settle up.
 
 # Features
