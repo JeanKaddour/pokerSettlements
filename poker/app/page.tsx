@@ -271,7 +271,7 @@ export default function Home() {
                   className="rounded-full"
                 />
                 <div>
-                  <CardTitle className="text-2xl">Jean's PokerSettle</CardTitle>
+                  <CardTitle className="text-2xl">Jean&apos;s PokerSettle</CardTitle>
                   <CardDescription>
                     Manage your poker game settlements with ease
                   </CardDescription>
